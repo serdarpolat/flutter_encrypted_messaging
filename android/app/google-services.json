@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394629439305",
+    "project_id": "chat-talkr",
+    "storage_bucket": "chat-talkr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394629439305:android:ca336b3bb001753bb70498",
+        "android_client_info": {
+          "package_name": "com.example.chat_talkr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394629439305-oa3sj9ikq49q5l85nkof818gk2jm7ml0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_talkr",
+            "certificate_hash": "cc695962a0450045daa86d51712444e4dd3addc8"
+          }
+        },
+        {
+          "client_id": "394629439305-52n3qf1ulpr96dleplautlqckvtfvflk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4n8nVZAeJlsol67d9Feh2cv5ECbrNrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394629439305-52n3qf1ulpr96dleplautlqckvtfvflk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
