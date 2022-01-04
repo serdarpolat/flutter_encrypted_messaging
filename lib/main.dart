@@ -21,7 +21,7 @@ Future<void> main() async {
   Hive.registerAdapter(UserModelAdapter());
 
   await Hive.openBox<UserSettings>('profile');
-  // await Hive.openBox<UserModel>('contacts');
+  await Hive.openBox<UserModel>('contacts');
 
   runApp(MyApp());
 }

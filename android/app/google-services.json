@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "394629439305",
-    "project_id": "chat-talkr",
-    "storage_bucket": "chat-talkr.appspot.com"
+    "project_number": "23134721623",
+    "project_id": "talky-5b69a",
+    "storage_bucket": "talky-5b69a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:394629439305:android:ca336b3bb001753bb70498",
+        "mobilesdk_app_id": "1:23134721623:android:caf1b40d78151f5285b512",
         "android_client_info": {
           "package_name": "com.example.chat_talkr"
         }
       },
       "oauth_client": [
         {
-          "client_id": "394629439305-oa3sj9ikq49q5l85nkof818gk2jm7ml0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.chat_talkr",
-            "certificate_hash": "cc695962a0450045daa86d51712444e4dd3addc8"
-          }
-        },
-        {
-          "client_id": "394629439305-52n3qf1ulpr96dleplautlqckvtfvflk.apps.googleusercontent.com",
+          "client_id": "23134721623-88c27h4079sejj2vf4elk8strvduanbm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAz4n8nVZAeJlsol67d9Feh2cv5ECbrNrE"
+          "current_key": "AIzaSyDRy3_5EUqCIimNZ8-b0055QtAAj7wGw4g"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "394629439305-52n3qf1ulpr96dleplautlqckvtfvflk.apps.googleusercontent.com",
+              "client_id": "23134721623-88c27h4079sejj2vf4elk8strvduanbm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

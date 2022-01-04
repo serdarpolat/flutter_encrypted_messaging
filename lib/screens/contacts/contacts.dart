@@ -22,6 +22,11 @@ class _ContactsState extends State<Contacts> {
   }
 
   @override
+  void dispose() {
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     Size s = MediaQuery.of(context).size;
     return Scaffold(
